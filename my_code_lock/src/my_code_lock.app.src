@@ -1,0 +1,12 @@
+{application, my_code_lock,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { my_code_lock_app, []}},
+  {env, []}
+ ]}.

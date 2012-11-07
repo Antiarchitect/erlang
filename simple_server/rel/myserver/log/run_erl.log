@@ -1,0 +1,8 @@
+run_erl [26542] Thu Nov  8 01:46:52 2012
+Args before exec of shell:
+run_erl [26542] Thu Nov  8 01:46:52 2012
+argv[0] = sh
+run_erl [26542] Thu Nov  8 01:46:52 2012
+argv[1] = -c
+run_erl [26542] Thu Nov  8 01:46:52 2012
+argv[2] = exec /home/andrey/ERLANG/erlang/simple_server/rel/myserver/bin/myserver console \'\' 
